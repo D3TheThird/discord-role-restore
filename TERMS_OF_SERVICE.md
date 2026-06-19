@@ -27,4 +27,4 @@ The bot is provided "as is" without warranty of any kind. We are not responsible
 
 ## Contact
 
-For questions or concerns, contact: josecarlosmelo95@gmail.com
+For questions or concerns, contact: devilevo666@gmail.com
