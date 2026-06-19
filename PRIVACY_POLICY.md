@@ -30,4 +30,4 @@ Users may request deletion of all their stored data by using the `/deleteme` sla
 
 ## Contact
 
-For privacy concerns or data requests, contact: josecarlosmelo95@gmail.com
+For privacy concerns or data requests, contact: devilevo666@gmail.com
